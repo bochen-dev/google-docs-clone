@@ -1,0 +1,14 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  background: #F3F3F3;
+  margin: 0;
+}
+
+@media print {
+  body {
+    background: none;
+  }
+}

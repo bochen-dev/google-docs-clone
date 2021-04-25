@@ -1,0 +1,8 @@
+node_modules
+
+# local env files
+.env.local
+.env.*.local
+
+# Firebase Service Account Key
+firebase-service-account-key.json
